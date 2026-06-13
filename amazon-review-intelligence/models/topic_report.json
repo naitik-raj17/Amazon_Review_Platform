@@ -1,0 +1,3012 @@
+{
+  "topics": [
+    {
+      "topic_id": 0,
+      "count": 1348,
+      "top_words": [
+        "driver",
+        "door",
+        "parcel",
+        "package",
+        "delivery",
+        "delivery driver",
+        "delivered",
+        "left",
+        "address",
+        "house"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 1,
+      "count": 1175,
+      "top_words": [
+        "great",
+        "fast",
+        "good",
+        "excellent",
+        "fast delivery",
+        "best",
+        "service",
+        "great service",
+        "delivery",
+        "price"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 2,
+      "count": 978,
+      "top_words": [
+        "prime",
+        "day",
+        "delivery",
+        "order",
+        "date",
+        "late",
+        "day delivery",
+        "amazon prime",
+        "shipping",
+        "membership"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 3,
+      "count": 356,
+      "top_words": [
+        "star",
+        "zero",
+        "zero star",
+        "wish",
+        "star star",
+        "customer",
+        "customer service",
+        "service",
+        "refund",
+        "day"
+      ],
+      "mapped_theme": "Customer Service"
+    },
+    {
+      "topic_id": 4,
+      "count": 326,
+      "top_words": [
+        "review",
+        "product",
+        "review amazon",
+        "negative",
+        "review product",
+        "negative review",
+        "honest",
+        "post",
+        "fake",
+        "write"
+      ],
+      "mapped_theme": "Product Quality"
+    },
+    {
+      "topic_id": 5,
+      "count": 295,
+      "top_words": [
+        "prime",
+        "love",
+        "amazon prime",
+        "love amazon",
+        "great",
+        "free",
+        "shipping",
+        "best",
+        "amazon",
+        "price"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 6,
+      "count": 286,
+      "top_words": [
+        "gift card",
+        "gift",
+        "card",
+        "amazon gift",
+        "account",
+        "balance",
+        "card amazon",
+        "money",
+        "amazon",
+        "purchase"
+      ],
+      "mapped_theme": "Pricing"
+    },
+    {
+      "topic_id": 7,
+      "count": 257,
+      "top_words": [
+        "account",
+        "locked",
+        "password",
+        "number",
+        "phone number",
+        "phone",
+        "locked account",
+        "log",
+        "login",
+        "access"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 8,
+      "count": 233,
+      "top_words": [
+        "prime",
+        "amazon prime",
+        "account",
+        "trial",
+        "charged",
+        "subscription",
+        "charge",
+        "month",
+        "card",
+        "membership"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 9,
+      "count": 152,
+      "top_words": [
+        "worst customer",
+        "worst",
+        "service",
+        "customer service",
+        "customer",
+        "service worst",
+        "bad service",
+        "bad",
+        "terrible",
+        "service bad"
+      ],
+      "mapped_theme": "Customer Service"
+    },
+    {
+      "topic_id": 10,
+      "count": 137,
+      "top_words": [
+        "return",
+        "customer",
+        "item",
+        "chat",
+        "amazon",
+        "refund",
+        "told",
+        "day",
+        "order",
+        "time"
+      ],
+      "mapped_theme": "Refunds"
+    },
+    {
+      "topic_id": 11,
+      "count": 119,
+      "top_words": [
+        "kindle",
+        "tablet",
+        "book",
+        "warranty",
+        "new",
+        "kindle book",
+        "device",
+        "unlimited",
+        "kindle unlimited",
+        "kid"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 12,
+      "count": 111,
+      "top_words": [
+        "book",
+        "ordered book",
+        "book amazon",
+        "ordered",
+        "pre",
+        "book ordered",
+        "damaged",
+        "bought book",
+        "textbook",
+        "received"
+      ],
+      "mapped_theme": "Packaging"
+    },
+    {
+      "topic_id": 13,
+      "count": 108,
+      "top_words": [
+        "joke",
+        "joke amazon",
+        "service joke",
+        "amazon joke",
+        "absolute joke",
+        "absolute",
+        "joke company",
+        "complete joke",
+        "joke customer",
+        "customer"
+      ],
+      "mapped_theme": "Customer Service"
+    },
+    {
+      "topic_id": 14,
+      "count": 106,
+      "top_words": [
+        "online",
+        "best",
+        "great",
+        "shopping",
+        "service",
+        "selection",
+        "amazon best",
+        "excellent",
+        "amazon",
+        "ecommerce"
+      ],
+      "mapped_theme": "Customer Service"
+    },
+    {
+      "topic_id": 15,
+      "count": 106,
+      "top_words": [
+        "love amazon",
+        "love",
+        "amazon love",
+        "amazing",
+        "amazon amazing",
+        "amazon",
+        "best",
+        "amazing amazon",
+        "awesome",
+        "amazon amazon"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 16,
+      "count": 102,
+      "top_words": [
+        "card",
+        "charge",
+        "bank",
+        "credit",
+        "credit card",
+        "account",
+        "debit",
+        "payment",
+        "debit card",
+        "fraud"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 17,
+      "count": 97,
+      "top_words": [
+        "employee",
+        "worker",
+        "bezos",
+        "jeff",
+        "job",
+        "like",
+        "company",
+        "people",
+        "jeff bezos",
+        "working"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 18,
+      "count": 97,
+      "top_words": [
+        "shoe",
+        "pair",
+        "size",
+        "ordered pair",
+        "ordered",
+        "boot",
+        "return",
+        "bought",
+        "clothing",
+        "received"
+      ],
+      "mapped_theme": "Refunds"
+    },
+    {
+      "topic_id": 19,
+      "count": 96,
+      "top_words": [
+        "china",
+        "chinese",
+        "product",
+        "quality",
+        "review",
+        "chinese product",
+        "site",
+        "seller",
+        "junk",
+        "company"
+      ],
+      "mapped_theme": "Product Quality"
+    },
+    {
+      "topic_id": 20,
+      "count": 94,
+      "top_words": [
+        "customer service",
+        "worst",
+        "service",
+        "customer",
+        "amazon customer",
+        "worst customer",
+        "support",
+        "service amazon",
+        "understand",
+        "amazon worst"
+      ],
+      "mapped_theme": "Customer Service"
+    },
+    {
+      "topic_id": 21,
+      "count": 93,
+      "top_words": [
+        "review text",
+        "text",
+        "review",
+        "text good",
+        "text great",
+        "good review",
+        "text best",
+        "hell",
+        "platform review",
+        "text excellent"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 22,
+      "count": 82,
+      "top_words": [
+        "phone",
+        "iphone",
+        "samsung",
+        "phone amazon",
+        "mobile",
+        "mobile phone",
+        "ordered phone",
+        "case",
+        "galaxy",
+        "ordered"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 23,
+      "count": 81,
+      "top_words": [
+        "problem",
+        "issue",
+        "fan",
+        "love amazon",
+        "great",
+        "customer service",
+        "service",
+        "love",
+        "amazon",
+        "great customer"
+      ],
+      "mapped_theme": "Customer Service"
+    },
+    {
+      "topic_id": 24,
+      "count": 80,
+      "top_words": [
+        "refund",
+        "item",
+        "wrong item",
+        "sent",
+        "returned",
+        "wrong",
+        "sent wrong",
+        "received",
+        "refund item",
+        "return"
+      ],
+      "mapped_theme": "Refunds"
+    },
+    {
+      "topic_id": 25,
+      "count": 80,
+      "top_words": [
+        "review text",
+        "text",
+        "service review",
+        "review",
+        "text customer",
+        "worst",
+        "bad service",
+        "bad",
+        "service",
+        "support review"
+      ],
+      "mapped_theme": "Customer Service"
+    },
+    {
+      "topic_id": 26,
+      "count": 80,
+      "top_words": [
+        "damaged",
+        "item",
+        "replacement",
+        "broken",
+        "return",
+        "ordered",
+        "received damaged",
+        "arrived",
+        "received",
+        "refund"
+      ],
+      "mapped_theme": "Refunds"
+    },
+    {
+      "topic_id": 27,
+      "count": 75,
+      "top_words": [
+        "prime",
+        "prime video",
+        "video",
+        "movie",
+        "music",
+        "series",
+        "film",
+        "amazon prime",
+        "watch",
+        "free"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 28,
+      "count": 74,
+      "top_words": [
+        "refund",
+        "returned",
+        "charged",
+        "item",
+        "return",
+        "dispute",
+        "credit",
+        "received",
+        "item returned",
+        "card"
+      ],
+      "mapped_theme": "Refunds"
+    },
+    {
+      "topic_id": 29,
+      "count": 74,
+      "top_words": [
+        "chat",
+        "person",
+        "customer service",
+        "service",
+        "customer",
+        "worst",
+        "help",
+        "issue",
+        "online chat",
+        "support"
+      ],
+      "mapped_theme": "Customer Service"
+    },
+    {
+      "topic_id": 30,
+      "count": 68,
+      "top_words": [
+        "review text",
+        "text",
+        "amazon review",
+        "review",
+        "text love",
+        "amazon good",
+        "love",
+        "love amazon",
+        "amazon",
+        "experience amazon"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 31,
+      "count": 68,
+      "top_words": [
+        "speech",
+        "free speech",
+        "political",
+        "black",
+        "communist",
+        "free",
+        "freedom",
+        "american",
+        "business",
+        "people"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 32,
+      "count": 63,
+      "top_words": [
+        "review text",
+        "text",
+        "delivery review",
+        "review",
+        "time review",
+        "fast",
+        "fast delivery",
+        "text good",
+        "delivery",
+        "service review"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 33,
+      "count": 63,
+      "top_words": [
+        "headphone",
+        "apple",
+        "pair",
+        "bluetooth",
+        "wireless",
+        "earphone",
+        "box",
+        "ordered",
+        "pro",
+        "bought"
+      ],
+      "mapped_theme": "Packaging"
+    },
+    {
+      "topic_id": 34,
+      "count": 61,
+      "top_words": [
+        "box",
+        "packaging",
+        "plastic",
+        "bag",
+        "seal",
+        "cardboard",
+        "product",
+        "item",
+        "arrived",
+        "packaged"
+      ],
+      "mapped_theme": "Packaging"
+    },
+    {
+      "topic_id": 35,
+      "count": 58,
+      "top_words": [
+        "scam",
+        "scammer",
+        "scammed",
+        "scammed amazon",
+        "scammer amazon",
+        "money",
+        "seller",
+        "amazon scam",
+        "amazon",
+        "scam amazon"
+      ],
+      "mapped_theme": "Pricing"
+    },
+    {
+      "topic_id": 36,
+      "count": 55,
+      "top_words": [
+        "chair",
+        "pillow",
+        "furniture",
+        "table",
+        "sofa",
+        "seller",
+        "pm",
+        "ordered",
+        "cover",
+        "party seller"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 37,
+      "count": 54,
+      "top_words": [
+        "book",
+        "buy book",
+        "book amazon",
+        "online",
+        "love",
+        "great",
+        "bookstore",
+        "place",
+        "read",
+        "buy"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 38,
+      "count": 53,
+      "top_words": [
+        "closed",
+        "account",
+        "closed account",
+        "account closed",
+        "amazon closed",
+        "close",
+        "close account",
+        "term",
+        "closing",
+        "email"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 39,
+      "count": 53,
+      "top_words": [
+        "kindle",
+        "book",
+        "love",
+        "kindle book",
+        "amazon kindle",
+        "great",
+        "ebooks",
+        "reader",
+        "site",
+        "easy"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 40,
+      "count": 51,
+      "top_words": [
+        "fake",
+        "fake product",
+        "counterfeit",
+        "product",
+        "fraudulent",
+        "seller",
+        "product amazon",
+        "beware",
+        "counterfeit item",
+        "design"
+      ],
+      "mapped_theme": "Product Quality"
+    },
+    {
+      "topic_id": 41,
+      "count": 51,
+      "top_words": [
+        "tv",
+        "monitor",
+        "ordered tv",
+        "samsung",
+        "replacement",
+        "tv amazon",
+        "wall",
+        "television",
+        "ordered",
+        "refund"
+      ],
+      "mapped_theme": "Refunds"
+    },
+    {
+      "topic_id": 42,
+      "count": 50,
+      "top_words": [
+        "bed",
+        "base",
+        "ordered",
+        "sleep",
+        "frame",
+        "delivered",
+        "daughter",
+        "th",
+        "queen",
+        "new"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 43,
+      "count": 50,
+      "top_words": [
+        "laptop",
+        "ordered laptop",
+        "computer",
+        "box",
+        "laptop amazon",
+        "specification",
+        "ordered",
+        "stolen",
+        "new",
+        "electronics"
+      ],
+      "mapped_theme": "Packaging"
+    },
+    {
+      "topic_id": 44,
+      "count": 47,
+      "top_words": [
+        "camera",
+        "blink",
+        "cam",
+        "dash",
+        "ordered",
+        "outdoor",
+        "bought",
+        "said",
+        "case",
+        "friday"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 45,
+      "count": 45,
+      "top_words": [
+        "watch",
+        "apple watch",
+        "apple",
+        "ordered",
+        "watch amazon",
+        "smart",
+        "refurbished",
+        "working",
+        "bought",
+        "told"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 46,
+      "count": 44,
+      "top_words": [
+        "service review",
+        "review text",
+        "text",
+        "text good",
+        "text amazing",
+        "review",
+        "good service",
+        "amazing service",
+        "text great",
+        "text excellent"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 47,
+      "count": 44,
+      "top_words": [
+        "review text",
+        "text",
+        "text great",
+        "review",
+        "text good",
+        "shopping",
+        "text best",
+        "shopping experience",
+        "online",
+        "online shopping"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 48,
+      "count": 43,
+      "top_words": [
+        "ups",
+        "usps",
+        "fedex",
+        "ups fedex",
+        "post office",
+        "ups amazon",
+        "deliver",
+        "package",
+        "office",
+        "post"
+      ],
+      "mapped_theme": "Packaging"
+    },
+    {
+      "topic_id": 49,
+      "count": 41,
+      "top_words": [
+        "year",
+        "amazon year",
+        "using amazon",
+        "using",
+        "year great",
+        "used year",
+        "year problem",
+        "year used",
+        "using year",
+        "year using"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 50,
+      "count": 38,
+      "top_words": [
+        "amazon",
+        "year",
+        "used",
+        "customer",
+        "product",
+        "alternative",
+        "thousand",
+        "company",
+        "better",
+        "big"
+      ],
+      "mapped_theme": "Product Quality"
+    },
+    {
+      "topic_id": 51,
+      "count": 37,
+      "top_words": [
+        "hacked",
+        "account hacked",
+        "account",
+        "hacked account",
+        "amazon account",
+        "email",
+        "fraud",
+        "security",
+        "acct",
+        "email address"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 52,
+      "count": 36,
+      "top_words": [
+        "easy use",
+        "easy",
+        "use",
+        "marketplace",
+        "best",
+        "site",
+        "best online",
+        "website",
+        "use site",
+        "online"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 53,
+      "count": 36,
+      "top_words": [
+        "locker",
+        "amazon locker",
+        "code",
+        "apartment",
+        "collect",
+        "delivery",
+        "package",
+        "apartment complex",
+        "receipt",
+        "location"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 54,
+      "count": 35,
+      "top_words": [
+        "great",
+        "love",
+        "love amazon",
+        "great price",
+        "price",
+        "love shopping",
+        "amazon great",
+        "shopping",
+        "amazing",
+        "great deal"
+      ],
+      "mapped_theme": "Pricing"
+    },
+    {
+      "topic_id": 55,
+      "count": 34,
+      "top_words": [
+        "range",
+        "range product",
+        "product",
+        "good",
+        "product good",
+        "wide",
+        "excellent",
+        "fantastic",
+        "great",
+        "price"
+      ],
+      "mapped_theme": "Product Quality"
+    },
+    {
+      "topic_id": 56,
+      "count": 34,
+      "top_words": [
+        "hill",
+        "gone hill",
+        "amazon gone",
+        "gone",
+        "going hill",
+        "downhill",
+        "going",
+        "gone downhill",
+        "amazon going",
+        "gone way"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 57,
+      "count": 33,
+      "top_words": [
+        "christmas",
+        "toy",
+        "present",
+        "xmas",
+        "birthday",
+        "son",
+        "ordered toy",
+        "wife",
+        "gift",
+        "ordered"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 58,
+      "count": 33,
+      "top_words": [
+        "chat",
+        "amazon chat",
+        "customer",
+        "customer service",
+        "amazon customer",
+        "hour",
+        "service",
+        "start",
+        "chat help",
+        "amazon"
+      ],
+      "mapped_theme": "Customer Service"
+    },
+    {
+      "topic_id": 59,
+      "count": 30,
+      "top_words": [
+        "worst company",
+        "worst",
+        "company",
+        "planet",
+        "company planet",
+        "company worst",
+        "company world",
+        "disgusting company",
+        "worst customer",
+        "people"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 60,
+      "count": 28,
+      "top_words": [
+        "search",
+        "product",
+        "sell",
+        "review",
+        "good",
+        "quality",
+        "instance",
+        "search engine",
+        "overall",
+        "engine"
+      ],
+      "mapped_theme": "Product Quality"
+    },
+    {
+      "topic_id": 61,
+      "count": 27,
+      "top_words": [
+        "charged",
+        "double",
+        "charge",
+        "twice",
+        "bank",
+        "charged twice",
+        "double charged",
+        "ryan",
+        "double charge",
+        "april"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 62,
+      "count": 27,
+      "top_words": [
+        "la",
+        "mi",
+        "en",
+        "euro",
+        "le",
+        "se",
+        "die",
+        "non",
+        "al",
+        "fr"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 63,
+      "count": 26,
+      "top_words": [
+        "best",
+        "best online",
+        "best shopping",
+        "shopping",
+        "shopping website",
+        "online",
+        "site",
+        "online shopping",
+        "site best",
+        "website"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 64,
+      "count": 26,
+      "top_words": [
+        "hermes",
+        "courier",
+        "delivery",
+        "using",
+        "collect",
+        "tracking",
+        "large",
+        "parcel",
+        "item",
+        "twice"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 65,
+      "count": 26,
+      "top_words": [
+        "alexa",
+        "echo",
+        "music",
+        "device",
+        "dot",
+        "amazon music",
+        "echo dot",
+        "speaker",
+        "tech",
+        "radio"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 66,
+      "count": 25,
+      "top_words": [
+        "used",
+        "amazon used",
+        "used love",
+        "used great",
+        "love amazon",
+        "love",
+        "used amazon",
+        "great",
+        "china",
+        "bye"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 67,
+      "count": 25,
+      "top_words": [
+        "thief",
+        "thief amazon",
+        "amazon thief",
+        "money",
+        "stealing",
+        "steal",
+        "credit",
+        "cheat",
+        "bunch",
+        "steal money"
+      ],
+      "mapped_theme": "Pricing"
+    },
+    {
+      "topic_id": 68,
+      "count": 24,
+      "top_words": [
+        "shop",
+        "place",
+        "great place",
+        "place shop",
+        "place buy",
+        "best",
+        "best place",
+        "need shop",
+        "best price",
+        "great"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 69,
+      "count": 24,
+      "top_words": [
+        "filter",
+        "vacuum",
+        "water",
+        "cleaner",
+        "bought",
+        "counterfeit",
+        "air",
+        "sold",
+        "vape",
+        "electrical"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 70,
+      "count": 23,
+      "top_words": [
+        "app",
+        "shopping",
+        "shopping app",
+        "app amazon",
+        "easy use",
+        "amazon app",
+        "amazon easy",
+        "best",
+        "love",
+        "amazon best"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 71,
+      "count": 20,
+      "top_words": [
+        "printer",
+        "print",
+        "refund",
+        "ordered",
+        "failed",
+        "extremely poor",
+        "valid",
+        "selling",
+        "warranty",
+        "repair"
+      ],
+      "mapped_theme": "Refunds"
+    },
+    {
+      "topic_id": 72,
+      "count": 20,
+      "top_words": [
+        "site",
+        "amazing site",
+        "great site",
+        "website",
+        "great website",
+        "great",
+        "amazing",
+        "useful",
+        "fab",
+        "love"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 73,
+      "count": 20,
+      "top_words": [
+        "review text",
+        "text",
+        "service review",
+        "text good",
+        "review",
+        "support review",
+        "text customer",
+        "good customer",
+        "text excellent",
+        "text best"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 74,
+      "count": 19,
+      "top_words": [
+        "date",
+        "delivery date",
+        "lie",
+        "july th",
+        "lying",
+        "july",
+        "guaranteed",
+        "delivery",
+        "day",
+        "telling truth"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 75,
+      "count": 19,
+      "top_words": [
+        "plug",
+        "shipping cost",
+        "information",
+        "seller",
+        "european",
+        "cost",
+        "amazon",
+        "custom",
+        "order",
+        "europe"
+      ],
+      "mapped_theme": "Pricing"
+    },
+    {
+      "topic_id": 76,
+      "count": 18,
+      "top_words": [
+        "number amazon",
+        "number",
+        "service number",
+        "customer care",
+        "amazon customer",
+        "calling amazon",
+        "care",
+        "good service",
+        "calling",
+        "customer good"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 77,
+      "count": 18,
+      "top_words": [
+        "food",
+        "dog",
+        "dog food",
+        "cat",
+        "cat food",
+        "puppy",
+        "ordered",
+        "bar",
+        "kg",
+        "adult"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 78,
+      "count": 17,
+      "top_words": [
+        "bike",
+        "electric",
+        "scooter",
+        "xmas",
+        "cart",
+        "ordered electric",
+        "cancelled",
+        "locate",
+        "went",
+        "toy"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 79,
+      "count": 17,
+      "top_words": [
+        "shopping",
+        "convenience",
+        "online",
+        "price",
+        "experience",
+        "online shopping",
+        "shopping experience",
+        "selection",
+        "better",
+        "shop"
+      ],
+      "mapped_theme": "Pricing"
+    },
+    {
+      "topic_id": 80,
+      "count": 16,
+      "top_words": [
+        "murder",
+        "blue",
+        "shirt",
+        "life",
+        "selling",
+        "merchandise",
+        "promote",
+        "police",
+        "amazon selling",
+        "shame"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 81,
+      "count": 16,
+      "top_words": [
+        "pm",
+        "delivery",
+        "deliver",
+        "carrier",
+        "delivery pm",
+        "home",
+        "email saying",
+        "parcel",
+        "tried deliver",
+        "saying"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 82,
+      "count": 16,
+      "top_words": [
+        "accent",
+        "speak",
+        "english",
+        "understand",
+        "usa",
+        "hire",
+        "rep",
+        "spoke",
+        "costumer",
+        "speaks"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 83,
+      "count": 16,
+      "top_words": [
+        "stick",
+        "remote",
+        "tv",
+        "work",
+        "brand",
+        "new",
+        "failure",
+        "amazon stick",
+        "stop working",
+        "replaced"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 84,
+      "count": 15,
+      "top_words": [
+        "account",
+        "account hold",
+        "hold",
+        "account specialist",
+        "specialist",
+        "christmas",
+        "day christmas",
+        "account deleted",
+        "confirmed",
+        "contact"
+      ],
+      "mapped_theme": "General"
+    },
+    {
+      "topic_id": 85,
+      "count": 15,
+      "top_words": [
+        "delivery service",
+        "worse",
+        "worst delivery",
+        "count",
+        "horrible delivery",
+        "delivery",
+        "worst",
+        "awful",
+        "getting worse",
+        "service"
+      ],
+      "mapped_theme": "Delivery"
+    },
+    {
+      "topic_id": 86,
+      "count": 15,
+      "top_words": [
+        "light",
+        "led",
+        "worthy",
+        "cheating amazon",
+        "came broken",
+        "replacement",
+        "purchased",
+        "return",
+        "lite",
+        "buy"
+      ],
+      "mapped_theme": "Refunds"
+    },
+    {
+      "topic_id": 87,
+      "count": 15,
+      "top_words": [
+        "jet",
+        "profanity",
+        "help",
+        "agent",
+        "corporate office",
+        "service department",
+        "customer",
+        "frustration",
+        "customer service",
+        "atrocious"
+      ],
+      "mapped_theme": "Customer Service"
+    }
+  ],
+  "theme_summary": {
+    "Delivery": [
+      {
+        "topic_id": 0,
+        "count": 1348,
+        "top_words": [
+          "driver",
+          "door",
+          "parcel",
+          "package",
+          "delivery",
+          "delivery driver",
+          "delivered",
+          "left",
+          "address",
+          "house"
+        ],
+        "mapped_theme": "Delivery"
+      },
+      {
+        "topic_id": 1,
+        "count": 1175,
+        "top_words": [
+          "great",
+          "fast",
+          "good",
+          "excellent",
+          "fast delivery",
+          "best",
+          "service",
+          "great service",
+          "delivery",
+          "price"
+        ],
+        "mapped_theme": "Delivery"
+      },
+      {
+        "topic_id": 2,
+        "count": 978,
+        "top_words": [
+          "prime",
+          "day",
+          "delivery",
+          "order",
+          "date",
+          "late",
+          "day delivery",
+          "amazon prime",
+          "shipping",
+          "membership"
+        ],
+        "mapped_theme": "Delivery"
+      },
+      {
+        "topic_id": 5,
+        "count": 295,
+        "top_words": [
+          "prime",
+          "love",
+          "amazon prime",
+          "love amazon",
+          "great",
+          "free",
+          "shipping",
+          "best",
+          "amazon",
+          "price"
+        ],
+        "mapped_theme": "Delivery"
+      },
+      {
+        "topic_id": 32,
+        "count": 63,
+        "top_words": [
+          "review text",
+          "text",
+          "delivery review",
+          "review",
+          "time review",
+          "fast",
+          "fast delivery",
+          "text good",
+          "delivery",
+          "service review"
+        ],
+        "mapped_theme": "Delivery"
+      },
+      {
+        "topic_id": 53,
+        "count": 36,
+        "top_words": [
+          "locker",
+          "amazon locker",
+          "code",
+          "apartment",
+          "collect",
+          "delivery",
+          "package",
+          "apartment complex",
+          "receipt",
+          "location"
+        ],
+        "mapped_theme": "Delivery"
+      },
+      {
+        "topic_id": 64,
+        "count": 26,
+        "top_words": [
+          "hermes",
+          "courier",
+          "delivery",
+          "using",
+          "collect",
+          "tracking",
+          "large",
+          "parcel",
+          "item",
+          "twice"
+        ],
+        "mapped_theme": "Delivery"
+      },
+      {
+        "topic_id": 74,
+        "count": 19,
+        "top_words": [
+          "date",
+          "delivery date",
+          "lie",
+          "july th",
+          "lying",
+          "july",
+          "guaranteed",
+          "delivery",
+          "day",
+          "telling truth"
+        ],
+        "mapped_theme": "Delivery"
+      },
+      {
+        "topic_id": 81,
+        "count": 16,
+        "top_words": [
+          "pm",
+          "delivery",
+          "deliver",
+          "carrier",
+          "delivery pm",
+          "home",
+          "email saying",
+          "parcel",
+          "tried deliver",
+          "saying"
+        ],
+        "mapped_theme": "Delivery"
+      },
+      {
+        "topic_id": 85,
+        "count": 15,
+        "top_words": [
+          "delivery service",
+          "worse",
+          "worst delivery",
+          "count",
+          "horrible delivery",
+          "delivery",
+          "worst",
+          "awful",
+          "getting worse",
+          "service"
+        ],
+        "mapped_theme": "Delivery"
+      }
+    ],
+    "Customer Service": [
+      {
+        "topic_id": 3,
+        "count": 356,
+        "top_words": [
+          "star",
+          "zero",
+          "zero star",
+          "wish",
+          "star star",
+          "customer",
+          "customer service",
+          "service",
+          "refund",
+          "day"
+        ],
+        "mapped_theme": "Customer Service"
+      },
+      {
+        "topic_id": 9,
+        "count": 152,
+        "top_words": [
+          "worst customer",
+          "worst",
+          "service",
+          "customer service",
+          "customer",
+          "service worst",
+          "bad service",
+          "bad",
+          "terrible",
+          "service bad"
+        ],
+        "mapped_theme": "Customer Service"
+      },
+      {
+        "topic_id": 13,
+        "count": 108,
+        "top_words": [
+          "joke",
+          "joke amazon",
+          "service joke",
+          "amazon joke",
+          "absolute joke",
+          "absolute",
+          "joke company",
+          "complete joke",
+          "joke customer",
+          "customer"
+        ],
+        "mapped_theme": "Customer Service"
+      },
+      {
+        "topic_id": 14,
+        "count": 106,
+        "top_words": [
+          "online",
+          "best",
+          "great",
+          "shopping",
+          "service",
+          "selection",
+          "amazon best",
+          "excellent",
+          "amazon",
+          "ecommerce"
+        ],
+        "mapped_theme": "Customer Service"
+      },
+      {
+        "topic_id": 20,
+        "count": 94,
+        "top_words": [
+          "customer service",
+          "worst",
+          "service",
+          "customer",
+          "amazon customer",
+          "worst customer",
+          "support",
+          "service amazon",
+          "understand",
+          "amazon worst"
+        ],
+        "mapped_theme": "Customer Service"
+      },
+      {
+        "topic_id": 23,
+        "count": 81,
+        "top_words": [
+          "problem",
+          "issue",
+          "fan",
+          "love amazon",
+          "great",
+          "customer service",
+          "service",
+          "love",
+          "amazon",
+          "great customer"
+        ],
+        "mapped_theme": "Customer Service"
+      },
+      {
+        "topic_id": 25,
+        "count": 80,
+        "top_words": [
+          "review text",
+          "text",
+          "service review",
+          "review",
+          "text customer",
+          "worst",
+          "bad service",
+          "bad",
+          "service",
+          "support review"
+        ],
+        "mapped_theme": "Customer Service"
+      },
+      {
+        "topic_id": 29,
+        "count": 74,
+        "top_words": [
+          "chat",
+          "person",
+          "customer service",
+          "service",
+          "customer",
+          "worst",
+          "help",
+          "issue",
+          "online chat",
+          "support"
+        ],
+        "mapped_theme": "Customer Service"
+      },
+      {
+        "topic_id": 58,
+        "count": 33,
+        "top_words": [
+          "chat",
+          "amazon chat",
+          "customer",
+          "customer service",
+          "amazon customer",
+          "hour",
+          "service",
+          "start",
+          "chat help",
+          "amazon"
+        ],
+        "mapped_theme": "Customer Service"
+      },
+      {
+        "topic_id": 87,
+        "count": 15,
+        "top_words": [
+          "jet",
+          "profanity",
+          "help",
+          "agent",
+          "corporate office",
+          "service department",
+          "customer",
+          "frustration",
+          "customer service",
+          "atrocious"
+        ],
+        "mapped_theme": "Customer Service"
+      }
+    ],
+    "Product Quality": [
+      {
+        "topic_id": 4,
+        "count": 326,
+        "top_words": [
+          "review",
+          "product",
+          "review amazon",
+          "negative",
+          "review product",
+          "negative review",
+          "honest",
+          "post",
+          "fake",
+          "write"
+        ],
+        "mapped_theme": "Product Quality"
+      },
+      {
+        "topic_id": 19,
+        "count": 96,
+        "top_words": [
+          "china",
+          "chinese",
+          "product",
+          "quality",
+          "review",
+          "chinese product",
+          "site",
+          "seller",
+          "junk",
+          "company"
+        ],
+        "mapped_theme": "Product Quality"
+      },
+      {
+        "topic_id": 40,
+        "count": 51,
+        "top_words": [
+          "fake",
+          "fake product",
+          "counterfeit",
+          "product",
+          "fraudulent",
+          "seller",
+          "product amazon",
+          "beware",
+          "counterfeit item",
+          "design"
+        ],
+        "mapped_theme": "Product Quality"
+      },
+      {
+        "topic_id": 50,
+        "count": 38,
+        "top_words": [
+          "amazon",
+          "year",
+          "used",
+          "customer",
+          "product",
+          "alternative",
+          "thousand",
+          "company",
+          "better",
+          "big"
+        ],
+        "mapped_theme": "Product Quality"
+      },
+      {
+        "topic_id": 55,
+        "count": 34,
+        "top_words": [
+          "range",
+          "range product",
+          "product",
+          "good",
+          "product good",
+          "wide",
+          "excellent",
+          "fantastic",
+          "great",
+          "price"
+        ],
+        "mapped_theme": "Product Quality"
+      },
+      {
+        "topic_id": 60,
+        "count": 28,
+        "top_words": [
+          "search",
+          "product",
+          "sell",
+          "review",
+          "good",
+          "quality",
+          "instance",
+          "search engine",
+          "overall",
+          "engine"
+        ],
+        "mapped_theme": "Product Quality"
+      }
+    ],
+    "Pricing": [
+      {
+        "topic_id": 6,
+        "count": 286,
+        "top_words": [
+          "gift card",
+          "gift",
+          "card",
+          "amazon gift",
+          "account",
+          "balance",
+          "card amazon",
+          "money",
+          "amazon",
+          "purchase"
+        ],
+        "mapped_theme": "Pricing"
+      },
+      {
+        "topic_id": 35,
+        "count": 58,
+        "top_words": [
+          "scam",
+          "scammer",
+          "scammed",
+          "scammed amazon",
+          "scammer amazon",
+          "money",
+          "seller",
+          "amazon scam",
+          "amazon",
+          "scam amazon"
+        ],
+        "mapped_theme": "Pricing"
+      },
+      {
+        "topic_id": 54,
+        "count": 35,
+        "top_words": [
+          "great",
+          "love",
+          "love amazon",
+          "great price",
+          "price",
+          "love shopping",
+          "amazon great",
+          "shopping",
+          "amazing",
+          "great deal"
+        ],
+        "mapped_theme": "Pricing"
+      },
+      {
+        "topic_id": 67,
+        "count": 25,
+        "top_words": [
+          "thief",
+          "thief amazon",
+          "amazon thief",
+          "money",
+          "stealing",
+          "steal",
+          "credit",
+          "cheat",
+          "bunch",
+          "steal money"
+        ],
+        "mapped_theme": "Pricing"
+      },
+      {
+        "topic_id": 75,
+        "count": 19,
+        "top_words": [
+          "plug",
+          "shipping cost",
+          "information",
+          "seller",
+          "european",
+          "cost",
+          "amazon",
+          "custom",
+          "order",
+          "europe"
+        ],
+        "mapped_theme": "Pricing"
+      },
+      {
+        "topic_id": 79,
+        "count": 17,
+        "top_words": [
+          "shopping",
+          "convenience",
+          "online",
+          "price",
+          "experience",
+          "online shopping",
+          "shopping experience",
+          "selection",
+          "better",
+          "shop"
+        ],
+        "mapped_theme": "Pricing"
+      }
+    ],
+    "General": [
+      {
+        "topic_id": 7,
+        "count": 257,
+        "top_words": [
+          "account",
+          "locked",
+          "password",
+          "number",
+          "phone number",
+          "phone",
+          "locked account",
+          "log",
+          "login",
+          "access"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 8,
+        "count": 233,
+        "top_words": [
+          "prime",
+          "amazon prime",
+          "account",
+          "trial",
+          "charged",
+          "subscription",
+          "charge",
+          "month",
+          "card",
+          "membership"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 11,
+        "count": 119,
+        "top_words": [
+          "kindle",
+          "tablet",
+          "book",
+          "warranty",
+          "new",
+          "kindle book",
+          "device",
+          "unlimited",
+          "kindle unlimited",
+          "kid"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 15,
+        "count": 106,
+        "top_words": [
+          "love amazon",
+          "love",
+          "amazon love",
+          "amazing",
+          "amazon amazing",
+          "amazon",
+          "best",
+          "amazing amazon",
+          "awesome",
+          "amazon amazon"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 16,
+        "count": 102,
+        "top_words": [
+          "card",
+          "charge",
+          "bank",
+          "credit",
+          "credit card",
+          "account",
+          "debit",
+          "payment",
+          "debit card",
+          "fraud"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 17,
+        "count": 97,
+        "top_words": [
+          "employee",
+          "worker",
+          "bezos",
+          "jeff",
+          "job",
+          "like",
+          "company",
+          "people",
+          "jeff bezos",
+          "working"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 21,
+        "count": 93,
+        "top_words": [
+          "review text",
+          "text",
+          "review",
+          "text good",
+          "text great",
+          "good review",
+          "text best",
+          "hell",
+          "platform review",
+          "text excellent"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 22,
+        "count": 82,
+        "top_words": [
+          "phone",
+          "iphone",
+          "samsung",
+          "phone amazon",
+          "mobile",
+          "mobile phone",
+          "ordered phone",
+          "case",
+          "galaxy",
+          "ordered"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 27,
+        "count": 75,
+        "top_words": [
+          "prime",
+          "prime video",
+          "video",
+          "movie",
+          "music",
+          "series",
+          "film",
+          "amazon prime",
+          "watch",
+          "free"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 30,
+        "count": 68,
+        "top_words": [
+          "review text",
+          "text",
+          "amazon review",
+          "review",
+          "text love",
+          "amazon good",
+          "love",
+          "love amazon",
+          "amazon",
+          "experience amazon"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 31,
+        "count": 68,
+        "top_words": [
+          "speech",
+          "free speech",
+          "political",
+          "black",
+          "communist",
+          "free",
+          "freedom",
+          "american",
+          "business",
+          "people"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 36,
+        "count": 55,
+        "top_words": [
+          "chair",
+          "pillow",
+          "furniture",
+          "table",
+          "sofa",
+          "seller",
+          "pm",
+          "ordered",
+          "cover",
+          "party seller"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 37,
+        "count": 54,
+        "top_words": [
+          "book",
+          "buy book",
+          "book amazon",
+          "online",
+          "love",
+          "great",
+          "bookstore",
+          "place",
+          "read",
+          "buy"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 38,
+        "count": 53,
+        "top_words": [
+          "closed",
+          "account",
+          "closed account",
+          "account closed",
+          "amazon closed",
+          "close",
+          "close account",
+          "term",
+          "closing",
+          "email"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 39,
+        "count": 53,
+        "top_words": [
+          "kindle",
+          "book",
+          "love",
+          "kindle book",
+          "amazon kindle",
+          "great",
+          "ebooks",
+          "reader",
+          "site",
+          "easy"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 42,
+        "count": 50,
+        "top_words": [
+          "bed",
+          "base",
+          "ordered",
+          "sleep",
+          "frame",
+          "delivered",
+          "daughter",
+          "th",
+          "queen",
+          "new"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 44,
+        "count": 47,
+        "top_words": [
+          "camera",
+          "blink",
+          "cam",
+          "dash",
+          "ordered",
+          "outdoor",
+          "bought",
+          "said",
+          "case",
+          "friday"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 45,
+        "count": 45,
+        "top_words": [
+          "watch",
+          "apple watch",
+          "apple",
+          "ordered",
+          "watch amazon",
+          "smart",
+          "refurbished",
+          "working",
+          "bought",
+          "told"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 46,
+        "count": 44,
+        "top_words": [
+          "service review",
+          "review text",
+          "text",
+          "text good",
+          "text amazing",
+          "review",
+          "good service",
+          "amazing service",
+          "text great",
+          "text excellent"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 47,
+        "count": 44,
+        "top_words": [
+          "review text",
+          "text",
+          "text great",
+          "review",
+          "text good",
+          "shopping",
+          "text best",
+          "shopping experience",
+          "online",
+          "online shopping"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 49,
+        "count": 41,
+        "top_words": [
+          "year",
+          "amazon year",
+          "using amazon",
+          "using",
+          "year great",
+          "used year",
+          "year problem",
+          "year used",
+          "using year",
+          "year using"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 51,
+        "count": 37,
+        "top_words": [
+          "hacked",
+          "account hacked",
+          "account",
+          "hacked account",
+          "amazon account",
+          "email",
+          "fraud",
+          "security",
+          "acct",
+          "email address"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 52,
+        "count": 36,
+        "top_words": [
+          "easy use",
+          "easy",
+          "use",
+          "marketplace",
+          "best",
+          "site",
+          "best online",
+          "website",
+          "use site",
+          "online"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 56,
+        "count": 34,
+        "top_words": [
+          "hill",
+          "gone hill",
+          "amazon gone",
+          "gone",
+          "going hill",
+          "downhill",
+          "going",
+          "gone downhill",
+          "amazon going",
+          "gone way"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 57,
+        "count": 33,
+        "top_words": [
+          "christmas",
+          "toy",
+          "present",
+          "xmas",
+          "birthday",
+          "son",
+          "ordered toy",
+          "wife",
+          "gift",
+          "ordered"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 59,
+        "count": 30,
+        "top_words": [
+          "worst company",
+          "worst",
+          "company",
+          "planet",
+          "company planet",
+          "company worst",
+          "company world",
+          "disgusting company",
+          "worst customer",
+          "people"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 61,
+        "count": 27,
+        "top_words": [
+          "charged",
+          "double",
+          "charge",
+          "twice",
+          "bank",
+          "charged twice",
+          "double charged",
+          "ryan",
+          "double charge",
+          "april"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 62,
+        "count": 27,
+        "top_words": [
+          "la",
+          "mi",
+          "en",
+          "euro",
+          "le",
+          "se",
+          "die",
+          "non",
+          "al",
+          "fr"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 63,
+        "count": 26,
+        "top_words": [
+          "best",
+          "best online",
+          "best shopping",
+          "shopping",
+          "shopping website",
+          "online",
+          "site",
+          "online shopping",
+          "site best",
+          "website"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 65,
+        "count": 26,
+        "top_words": [
+          "alexa",
+          "echo",
+          "music",
+          "device",
+          "dot",
+          "amazon music",
+          "echo dot",
+          "speaker",
+          "tech",
+          "radio"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 66,
+        "count": 25,
+        "top_words": [
+          "used",
+          "amazon used",
+          "used love",
+          "used great",
+          "love amazon",
+          "love",
+          "used amazon",
+          "great",
+          "china",
+          "bye"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 68,
+        "count": 24,
+        "top_words": [
+          "shop",
+          "place",
+          "great place",
+          "place shop",
+          "place buy",
+          "best",
+          "best place",
+          "need shop",
+          "best price",
+          "great"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 69,
+        "count": 24,
+        "top_words": [
+          "filter",
+          "vacuum",
+          "water",
+          "cleaner",
+          "bought",
+          "counterfeit",
+          "air",
+          "sold",
+          "vape",
+          "electrical"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 70,
+        "count": 23,
+        "top_words": [
+          "app",
+          "shopping",
+          "shopping app",
+          "app amazon",
+          "easy use",
+          "amazon app",
+          "amazon easy",
+          "best",
+          "love",
+          "amazon best"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 72,
+        "count": 20,
+        "top_words": [
+          "site",
+          "amazing site",
+          "great site",
+          "website",
+          "great website",
+          "great",
+          "amazing",
+          "useful",
+          "fab",
+          "love"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 73,
+        "count": 20,
+        "top_words": [
+          "review text",
+          "text",
+          "service review",
+          "text good",
+          "review",
+          "support review",
+          "text customer",
+          "good customer",
+          "text excellent",
+          "text best"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 76,
+        "count": 18,
+        "top_words": [
+          "number amazon",
+          "number",
+          "service number",
+          "customer care",
+          "amazon customer",
+          "calling amazon",
+          "care",
+          "good service",
+          "calling",
+          "customer good"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 77,
+        "count": 18,
+        "top_words": [
+          "food",
+          "dog",
+          "dog food",
+          "cat",
+          "cat food",
+          "puppy",
+          "ordered",
+          "bar",
+          "kg",
+          "adult"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 78,
+        "count": 17,
+        "top_words": [
+          "bike",
+          "electric",
+          "scooter",
+          "xmas",
+          "cart",
+          "ordered electric",
+          "cancelled",
+          "locate",
+          "went",
+          "toy"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 80,
+        "count": 16,
+        "top_words": [
+          "murder",
+          "blue",
+          "shirt",
+          "life",
+          "selling",
+          "merchandise",
+          "promote",
+          "police",
+          "amazon selling",
+          "shame"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 82,
+        "count": 16,
+        "top_words": [
+          "accent",
+          "speak",
+          "english",
+          "understand",
+          "usa",
+          "hire",
+          "rep",
+          "spoke",
+          "costumer",
+          "speaks"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 83,
+        "count": 16,
+        "top_words": [
+          "stick",
+          "remote",
+          "tv",
+          "work",
+          "brand",
+          "new",
+          "failure",
+          "amazon stick",
+          "stop working",
+          "replaced"
+        ],
+        "mapped_theme": "General"
+      },
+      {
+        "topic_id": 84,
+        "count": 15,
+        "top_words": [
+          "account",
+          "account hold",
+          "hold",
+          "account specialist",
+          "specialist",
+          "christmas",
+          "day christmas",
+          "account deleted",
+          "confirmed",
+          "contact"
+        ],
+        "mapped_theme": "General"
+      }
+    ],
+    "Refunds": [
+      {
+        "topic_id": 10,
+        "count": 137,
+        "top_words": [
+          "return",
+          "customer",
+          "item",
+          "chat",
+          "amazon",
+          "refund",
+          "told",
+          "day",
+          "order",
+          "time"
+        ],
+        "mapped_theme": "Refunds"
+      },
+      {
+        "topic_id": 18,
+        "count": 97,
+        "top_words": [
+          "shoe",
+          "pair",
+          "size",
+          "ordered pair",
+          "ordered",
+          "boot",
+          "return",
+          "bought",
+          "clothing",
+          "received"
+        ],
+        "mapped_theme": "Refunds"
+      },
+      {
+        "topic_id": 24,
+        "count": 80,
+        "top_words": [
+          "refund",
+          "item",
+          "wrong item",
+          "sent",
+          "returned",
+          "wrong",
+          "sent wrong",
+          "received",
+          "refund item",
+          "return"
+        ],
+        "mapped_theme": "Refunds"
+      },
+      {
+        "topic_id": 26,
+        "count": 80,
+        "top_words": [
+          "damaged",
+          "item",
+          "replacement",
+          "broken",
+          "return",
+          "ordered",
+          "received damaged",
+          "arrived",
+          "received",
+          "refund"
+        ],
+        "mapped_theme": "Refunds"
+      },
+      {
+        "topic_id": 28,
+        "count": 74,
+        "top_words": [
+          "refund",
+          "returned",
+          "charged",
+          "item",
+          "return",
+          "dispute",
+          "credit",
+          "received",
+          "item returned",
+          "card"
+        ],
+        "mapped_theme": "Refunds"
+      },
+      {
+        "topic_id": 41,
+        "count": 51,
+        "top_words": [
+          "tv",
+          "monitor",
+          "ordered tv",
+          "samsung",
+          "replacement",
+          "tv amazon",
+          "wall",
+          "television",
+          "ordered",
+          "refund"
+        ],
+        "mapped_theme": "Refunds"
+      },
+      {
+        "topic_id": 71,
+        "count": 20,
+        "top_words": [
+          "printer",
+          "print",
+          "refund",
+          "ordered",
+          "failed",
+          "extremely poor",
+          "valid",
+          "selling",
+          "warranty",
+          "repair"
+        ],
+        "mapped_theme": "Refunds"
+      },
+      {
+        "topic_id": 86,
+        "count": 15,
+        "top_words": [
+          "light",
+          "led",
+          "worthy",
+          "cheating amazon",
+          "came broken",
+          "replacement",
+          "purchased",
+          "return",
+          "lite",
+          "buy"
+        ],
+        "mapped_theme": "Refunds"
+      }
+    ],
+    "Packaging": [
+      {
+        "topic_id": 12,
+        "count": 111,
+        "top_words": [
+          "book",
+          "ordered book",
+          "book amazon",
+          "ordered",
+          "pre",
+          "book ordered",
+          "damaged",
+          "bought book",
+          "textbook",
+          "received"
+        ],
+        "mapped_theme": "Packaging"
+      },
+      {
+        "topic_id": 33,
+        "count": 63,
+        "top_words": [
+          "headphone",
+          "apple",
+          "pair",
+          "bluetooth",
+          "wireless",
+          "earphone",
+          "box",
+          "ordered",
+          "pro",
+          "bought"
+        ],
+        "mapped_theme": "Packaging"
+      },
+      {
+        "topic_id": 34,
+        "count": 61,
+        "top_words": [
+          "box",
+          "packaging",
+          "plastic",
+          "bag",
+          "seal",
+          "cardboard",
+          "product",
+          "item",
+          "arrived",
+          "packaged"
+        ],
+        "mapped_theme": "Packaging"
+      },
+      {
+        "topic_id": 43,
+        "count": 50,
+        "top_words": [
+          "laptop",
+          "ordered laptop",
+          "computer",
+          "box",
+          "laptop amazon",
+          "specification",
+          "ordered",
+          "stolen",
+          "new",
+          "electronics"
+        ],
+        "mapped_theme": "Packaging"
+      },
+      {
+        "topic_id": 48,
+        "count": 43,
+        "top_words": [
+          "ups",
+          "usps",
+          "fedex",
+          "ups fedex",
+          "post office",
+          "ups amazon",
+          "deliver",
+          "package",
+          "office",
+          "post"
+        ],
+        "mapped_theme": "Packaging"
+      }
+    ]
+  }
+}
