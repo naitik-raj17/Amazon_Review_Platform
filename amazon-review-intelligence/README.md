@@ -9,6 +9,17 @@ Training-ready Reviews: 20,149
 - **Logistic Regression Accuracy: 95.68%**
 - **Logistic Regression F1: 95.69%**
 - **Random Forest Accuracy: 92.93%**
+
+
+## Dashboard
+
+### Overview
+
+![Dashboard](assets/dashboard.png)
+
+### Live Prediction
+
+![Prediction](assets/prediction.png)
 ## Features
 - **Data Pipeline** — Safe CSV loading, missing value handling, deduplication, and text validation
 - **NLP Preprocessing** — Reusable pipeline with lemmatization, stopword removal, and text normalization
