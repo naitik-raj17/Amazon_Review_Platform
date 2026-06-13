@@ -2,8 +2,14 @@
 
 An end-to-end NLP application that analyzes Amazon customer reviews and provides **sentiment classification**, **topic extraction**, **analytics**, and **real-time prediction**.
 
-## Features
+Dataset Size: 21,214 Reviews
+Training-ready Reviews: 20,149
 
+## Model Performance:
+- **Logistic Regression Accuracy: 95.68%**
+- **Logistic Regression F1: 95.69%**
+- **Random Forest Accuracy: 92.93%**
+## Features
 - **Data Pipeline** — Safe CSV loading, missing value handling, deduplication, and text validation
 - **NLP Preprocessing** — Reusable pipeline with lemmatization, stopword removal, and text normalization
 - **Sentiment Classification**
