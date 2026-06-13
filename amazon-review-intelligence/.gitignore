@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models and artifacts
+models/*
+!models/.gitkeep
+
+# Data (keep structure, ignore large files)
+data/*.csv
+data/eda_plots/
+!data/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# PyTorch / HuggingFace cache
+.cache/
+transformers_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
